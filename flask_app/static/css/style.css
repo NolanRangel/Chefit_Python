@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    background-color: rgba(238, 235, 235, 0.671);
+    height: 100vh;
+    margin: 0 auto;
+}
+nav{
+    height: 150px;
+}
+.text-box{
+    height: 200px;
+    text-align: start;
+}
+.img{
+    opacity: .2;
+    /* mix-blend-mode:; */
+
+ }
+ /* .avatar{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    border-style:  solid ;
+    border-width:  2px;
+    border-color: gray;
+    } */
+
+
